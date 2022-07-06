@@ -29,3 +29,9 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 ![Mock-Up2](/imgs/11-express-homework-demo-02.png)
 
+
+# Git Hub Repo
+
+https://github.com/SherrickM/note-taker-project
+
+# Heroku URL
