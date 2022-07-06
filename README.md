@@ -9,7 +9,6 @@ AS A small business owner I WANT to be able to write and save notes SO THAT I ca
 
 ## Acceptance Criteria
 
-
 - GIVEN a note-taking application WHEN I open the Note Taker THEN I am presented with a landing page with a link to a notes page
 
 - WHEN I click on the link to the notes page THEN I am presented with a page with existing notes listed in the left-hand column, plus empty fields to enter a new note title and the note’s text in the right-hand column
@@ -32,6 +31,8 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 # Git Hub Repo
 
-https://github.com/SherrickM/note-taker-project
+> https://github.com/SherrickM/note-taker-project
 
 # Heroku URL
+
+> https://guarded-springs-98042.herokuapp.com/
